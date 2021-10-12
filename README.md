@@ -65,3 +65,11 @@ if result == None:
 else:
   
   print(result + 1)
+
+
+## example_001 - 30m
+
+![image](https://user-images.githubusercontent.com/88085974/136877160-24c18564-0c65-45a8-abf4-c843a148d9ae.png)
+
+![image](https://user-images.githubusercontent.com/88085974/136877180-c8f54e61-940c-430e-aa5c-c6646b12efb7.png)
+
